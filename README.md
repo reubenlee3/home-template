@@ -1,17 +1,17 @@
 # Design Document for Home Template
 
-# Current State
+## Current State
 
-# Context
+## Context
 
-# Problems
+## Problems
 
-# Jobs
+## Jobs
 
-# Design Goals
+## Design Goals
 
-# Current System
+## Current System
 
-# Explore
+## Explore
 
-# Execute
+## Execute
